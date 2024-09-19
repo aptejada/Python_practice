@@ -3,7 +3,7 @@
 
 # 23 August 2024
 
-number = 5 # create a variabke and assign the value 5
+number = 5 # create a variabLe and assign the value 5
 text = 'Hello World' # Another variable called text and assign a string 'Hello World'
 print(text) # to print the text variable to the screen
 print(text[6]) # print the character at index 6; index begins at 0
